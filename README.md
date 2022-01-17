@@ -8,8 +8,8 @@ Classes from previous (alternate) years: [2020](https://github.com/MPOcanes/MPO6
 ### Software accounts and installs: 
 
 ## Our Github and Conda-Jupyter-Python software stack
-  1. https://github.com/MPOcanes/MPO624-2022/blob/master/GITHUB_QUICKSTART.md
-  1. https://github.com/MPOcanes/MPO624-2022/blob/master/INSTALL_MINICONDA_AND_ENVIRONMENT.md
+  1. https://github.com/MPOcanes/MPO624_2022/blob/main/GITHUB_QUICKSTART.md
+  3. https://github.com/MPOcanes/MPO624-2022/blob/main/INSTALL_MINICONDA_AND_ENVIRONMENT.md
   
 ## Hypothes.is for our communications over literature and other Web content
   * Click [here](http://hypothes.is) to begin. Learn what it is, and create an account. Install their Chrome browser plugin. To test it, make a visible comment on some Web page. If you wish, learn about how to make private rather than public comment channels (Groups), and invite the instructor to join your class-related Group. 
