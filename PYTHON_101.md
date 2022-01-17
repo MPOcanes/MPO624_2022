@@ -1,5 +1,8 @@
 ## First things to know about Python
-#### Acknowledgements: Chapters 3 and 7 of http://www.johnny-lin.com/pyintro/
+
+#### Quickstart from [Pythia](https://foundations.projectpythia.org/foundations/quickstart.html)
+#### Other tutorials recommended by [Unidata training](https://unidata.github.io/python-training/python/intro-to-python/)
+#### Below are from Chapters 3 and 7 of https://www.johnny-lin.com/pyintro/ed01/
 
   * _Case sensitive_ (capitalization matters!)
   * _Indentation is meaningful_ (loops, conditions, function definition)
