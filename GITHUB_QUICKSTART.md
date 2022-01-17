@@ -6,6 +6,10 @@
 2. **Make an account** on github.com (the desktop client will prompt you on launch, or go directly in a browser).
    - Link your desktop client to your GitHub account by typing your username and password into it.
 
+      - Other git clients I have heard recommended
+         - https://www.gitkraken.com/
+         - https://www.sourcetreeapp.com/
+
 -----------------
 ### Clone the course repo, to allow updates and collaboration
 
@@ -22,13 +26,5 @@
 ### To learn more about GitHub, browse the guides at https://guides.github.com/
 #### or dive into deeper training at https://services.github.com/on-demand/
 
-* I found it helpful to illustrate these relations in a visual space, with the Upstream Master at upper left, my Fork in the GitHub.com cloud at upper right, local machine ways of working with the files at the bottom, and the Client as the hub that connects them all. See it [here](https://github.com/MPOcanes/MPO624-2020/blob/main/classnotes/images/2020-01-23_Cloud_and_local_repos_layout.png).
+* Command-line git and repository "branching" concepts are nice and clear at: https://learngitbranching.js.org/
 
-* Repository "branching" concepts (based on git's command-line names for things) are nice and clear at: https://learngitbranching.js.org/
-
------------------
-## Other git clients I have heard recommended
-
-https://www.gitkraken.com/
-
-https://www.sourcetreeapp.com/
