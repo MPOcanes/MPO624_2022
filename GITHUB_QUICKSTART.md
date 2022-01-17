@@ -22,7 +22,7 @@
 ### To learn more about GitHub, browse the guides at https://guides.github.com/
 #### or dive into deeper training at https://services.github.com/on-demand/
 
-* I found it helpful to illustrate these relations in a visual space, with the Upstream Master at upper left, my Fork in the GitHub.com cloud at upper right, local machine ways of working with the files at the bottom, and the Client as the hub that connects them all. See it [here](https://github.com/MPO624/MPO624-2020/blob/master/classnotes/images/2020-01-23_Cloud_and_local_repos_layout.png).
+* I found it helpful to illustrate these relations in a visual space, with the Upstream Master at upper left, my Fork in the GitHub.com cloud at upper right, local machine ways of working with the files at the bottom, and the Client as the hub that connects them all. See it [here](https://github.com/MPOcanes/MPO624-2020/blob/main/classnotes/images/2020-01-23_Cloud_and_local_repos_layout.png).
 
 * Repository "branching" concepts (based on git's command-line names for things) are nice and clear at: https://learngitbranching.js.org/
 
