@@ -1,0 +1,25 @@
+# from https://github.com/ProjectPythia/pythia-foundations/blob/main/environment.yml
+# BEM added ipyidv, rise Jan 2022
+name: MPO624
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - jupyter-book
+  - jupyterlab
+  - matplotlib
+  - nc-time-axis
+  - netcdf4
+  - numpy
+  - pip
+  - pre-commit
+  - pyproj
+  - pythia-datasets
+  - python=3.8
+  - scipy
+  - sqlalchemy<1.4
+  - xarray
+  - rise
+  - pip:
+      - sphinx-pythia-theme
+      - ipyidv
