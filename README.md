@@ -5,7 +5,7 @@ The course is all here, no Blackboard will be used. Once you have a Github accou
 
 Classes from previous (alternate) years: [2020](https://github.com/MPOcanes/MPO624-2020), [2018](https://github.com/MPOcanes/MPO624-2018). 
 
-### Software accounts and installs: 
+# Software installs: 
 
 ## Our Github and Conda-Jupyter-Python software stack
   1. https://github.com/MPOcanes/MPO624_2022/blob/main/GITHUB_QUICKSTART.md
