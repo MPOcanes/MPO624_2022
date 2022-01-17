@@ -15,7 +15,7 @@
 
    - In the GitHub desktop client's upper left corner, in the **Add** menu choose **Clone**.
 
-   - You will have to select or create a folder for it on your own computer. Choose its name thoughtfully. It will have some hidden files (under .git) to keep track of versions and branches. 
+   - You will have to select or create a folder for it on your own computer. The default is probably a smart way to organize your folders, study it (and I recommend to accept it). It will have some hidden files (under a folder called .git) that keep track of versions and branches, invisibly to you. 
    
 ------------------
 
