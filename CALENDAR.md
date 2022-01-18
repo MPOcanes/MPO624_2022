@@ -3,7 +3,7 @@
 
 week | Tuesdays | Thursdays | dates
 -----|----------|-----------|------
-1 | Introduction, [installs](https://github.com/MPOcanes/MPO624_2022/blob/main/README.md) | Assignment: Show me your Jupyter Lab screen share  | Jan 18-20
+1 | Introduction, [installs](https://github.com/MPOcanes/MPO624_2022/blob/main/README.md) | Assignment DUE: Show me your Jupyter Lab screen share  | Jan 18-20
 2 |  |  | Jan 25-27
 3 |  |  | Feb 1-3
 4 |  |  | Feb 8-10
