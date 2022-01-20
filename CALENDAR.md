@@ -4,7 +4,7 @@
 week | Tuesdays | Thursdays | dates
 -----|----------|-----------|------
 1 | Introduction, [installs](https://github.com/MPOcanes/MPO624_2022/blob/main/README.md) | Assignment DUE: Screen share by each student, basic Jupyter/lab capabilities. Superpowers include object? for information, and object.`Press Tab Key` to see a menu of every method, function() or available sub-object. | Jan 18-20
-2 |Assignment: complete all installs, Fork class repo. Mount our Box folder MPO624_data (see email). Show that you can run my notebooks thanks to ~Box/... file naming. |  | Jan 25-27
+2 |Assignment DUE: complete all installs, Fork class repo. Mount our Box folder MPO624_data (see email). Show that you can run my notebooks thanks to ~Box/... file naming. Syllabus and course plans discussion |  | Jan 25-27
 3 |  |  | Feb 1-3
 4 |  |  | Feb 8-10
 5 |  |  | Feb 15-17
