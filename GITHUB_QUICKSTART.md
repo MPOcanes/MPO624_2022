@@ -5,11 +5,7 @@
 
 2. **Make an account** on github.com (the desktop client will prompt you on launch, or go directly in a browser).
    - Link your desktop client to your GitHub account by typing your username and password into it.
-
-      - Other git clients I have heard recommended
-         - https://www.gitkraken.com/
-         - https://www.sourcetreeapp.com/
-
+   - 
 -----------------
 ### Clone the course repo, to allow updates and collaboration
 

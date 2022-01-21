@@ -11,10 +11,12 @@ Classes from previous (alternate) years: [2020](https://github.com/MPOcanes/MPO6
   1. https://github.com/MPOcanes/MPO624_2022/blob/main/GITHUB_QUICKSTART.md
   3. https://github.com/MPOcanes/MPO624_2022/blob/main/INSTALL_MINICONDA_AND_ENVIRONMENT.md
   
-## Hypothes.is for our communications over literature and other Web content
-  * Click [here](http://hypothes.is) to begin. Learn what it is, and create an account. Install their Chrome browser plugin. To test it, make a visible comment on some Web page. If you wish, learn about how to make private rather than public comment channels (Groups), and invite the instructor to join your class-related Group. 
+  
+-------------
+--------------
+# *Optional* other installs 
 
-## Optional other installs 
+  * Hypothes.is for our communications over literature and other Web content. Click [here](http://hypothes.is) to begin. Learn what it is, and create an account. Install their Chrome browser plugin. To test it, make a visible comment on some Web page. If you wish, learn about how to make private rather than public comment channels (Groups), and invite the instructor to join your class-related Group. 
    
    * Matlab is free to you while you are at UM, because UM pays a handsome fee for an unlimited license. You will need to create an account, verify a UM license token, etc.  It is very powerful, and very well documented, with lots of user-friendly features and customer service (people paid to do tech support). You can install it by starting [here](http://it.miami.edu/a-z-listing/matlab/index.html).
    
