@@ -11,9 +11,9 @@ editor macros and tricks
 
 editors/IDEs
 
-    emacs vs vi in terminal
-    Atom (GitHub ally)
-    Spyder, Pycharm
+    - emacs vs vi in terminal
+    - Atom (GitHub ally)
+    - Spyder, Pycharm
     
 HPC issues (resource accounting, packages, queues, ...)
 
