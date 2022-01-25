@@ -4,27 +4,33 @@
 #### Toward Data Science articles: Medium has a lot of these
 
 operating system and shell commands
+
 shell scripts
+
 editor macros and tricks
 
 editors/IDEs
+
     emacs vs vi in terminal
     Atom (GitHub ally)
     Spyder, Pycharm
     
 HPC issues (resource accounting, packages, queues, ...)
+
 GPUs vs. CPUs
 
 hypothes.is to keep track/notes of your readings
 
-alt browsers: firefox, chrome, brave, opera, ...
-seamonkey composer for html
+alt browsers: firefox, chrome, brave, opera, seamonkey composer for html
+
 web page WYSIWIG editors
+
 web page hosting and composition
-  github pages
-  google pages
-  weebly
-  ...?
+
+    github pages
+    google pages
+    weebly
+    ...?
 
 Web based (remote) analysis and data fetch: 
     PSD
