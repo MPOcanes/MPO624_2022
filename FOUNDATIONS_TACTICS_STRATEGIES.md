@@ -1,3 +1,6 @@
+# TOPICS SUGGESTIONS FOR STUDENT PRESENTATIONS 
+## On the 3 levels: foundations, strategy, tactics 
+
 # Foundations: computer up to numpy (maybe pandas)
 
 #### cheat sheet tours perhaps! 
