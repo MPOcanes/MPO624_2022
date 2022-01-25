@@ -1,15 +1,19 @@
 # Fundamentals: computer up to numpy (maybe pandas)
-
-cheat sheets!
+#### cheat sheet tours perhaps! 
 
 operating system and shell commands
 shell scripts
 editor macros and tricks
-advanced editors/IDEs
+
+editors/IDEs
+    emacs vs vi in terminal
+    Atom (GitHub ally)
+    Spyder, Pycharm
+    
 HPC issues (resource accounting, packages, queues, ...)
 GPUs vs. CPUs
 
-hypothes.is keep track/notes of your readings
+hypothes.is to keep track/notes of your readings
 
 alt browsers: firefox, chrome, brave, opera, ...
 seamonkey composer for html
@@ -20,14 +24,18 @@ web page hosting and composition
   weebly
   ...?
 
-#### Web resources:
-PSD, ClimateExplorer.nl, Ingrid for atm/ocean
+Web based (remote) analysis and data fetch: 
+    PSD
+    ClimateExplorer.nl
+    LDEO Ingrid 
+    Giovanni (NASA)
+
 python notebook troves
 trainings (unidata and links, etc.)
 the carpentries (software, data)
 interactive python textbooks (johnny-lin, pythia, ...)
 
-JuPyteR features and tricks
+JuPyteR features (console, etc.)
 ipython / JuPyteR extensions: Zen mode, RISE slideshow,...
 glimpse of other languages: Julia, R (r-project.org)
 
@@ -38,6 +46,14 @@ Microsoft Azure and products
 
 python: loops v broadcasting, `try:` errorflow, dictionaries, ...
 object oriented thinking
+
+self-describing data formats (netCDF, HDF, ...)
+cdo/nco operators for NetCDF files 
+opendap (no need to download a copy)
+aggregations and THREDDS
+IDV as a universal geo-data reader/viewer
+    Panoply quicklook for netCDF 
+NASA "cookbooks"
 
 data ingest/import tricks
 pickle, json for quick export/import
@@ -64,24 +80,27 @@ scipy scientific data formats and read-in
 scipy matrix manipulations
 scipy regression
 scipy Fourier - 1D (sound for instance)
+    what's up with sound? YouTube
 scipy Fourier - 2D (images)
 
 statistics concepts
-  so many
-synthetic data and direct testing
+  covariance matrix 
+  matrix decompositions and "modes" 
+  linear models
+  filter theory (e.g. convolution)
+synthetic data and direct hypothesis testing
   jackknife vs. bootstrap resampling
   monte carlo methods
   PDF matching
   autocorrelation in space/time
 
-dask for parallelization
+dask: for parallelization
 dash: web interface to python sessions
 
-concepts in learning
-scikit-learn classification
-scikit-learn regression
-cluster analysis
-
+"learning" concepts: features, labels, ...  
+scikit-learn: classification
+scikit-learn: regression
+cluster analysis (and its many names)
 ML/AI concepts (browse my hypothes.is channel)
 neural networks concepts
 convolution and CNNs
@@ -89,14 +108,16 @@ openai.org
 pytorch, tensorflow, kubernetes, ...
 explainable AI (XAI), backpropagation
 
-Google teachable machine
-Google Earth Engine
-experiments.withgoogle
-DALL-E (transformer)
+Google teachable machine demo
+Google Earth Engine demo
+experiments.withgoogle site
+DALL-E (transformer GPT3, WOW)
 predictive coding (github copilot)
 
+#### specialized science packages and workflows
 MetPy
 Pangeo
+EarthCube notebook contest winners 
 
 # Strategy: role of data (graphics) in science and meaning
 
@@ -108,7 +129,7 @@ Tufte books
 data art movement
 literate programming movement
 
-bayesian reasoning (formal learning)
+Bayesian reasoning (formal learning)
 hypothesis testing, p-values
 null hypothesis
 fooling yourself (and not)
