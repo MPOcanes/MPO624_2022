@@ -1,4 +1,4 @@
-# Fundamentals: computer up to numpy (maybe pandas)
+# Foundations: computer up to numpy (maybe pandas)
 
 #### cheat sheet tours perhaps! 
 #### Toward Data Science articles: Medium has a lot of these
