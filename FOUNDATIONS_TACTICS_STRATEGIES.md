@@ -155,6 +155,7 @@ dash: web interface to python sessions
     explainable AI (XAI), backpropagation
 
 Google teachable machine demo
+Google [Detectron](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=JgKyUL4pngvE) feature labeler in a photograph
 
 Google Earth Engine demo
 
