@@ -1,5 +1,7 @@
 # Fundamentals: computer up to numpy (maybe pandas)
+
 #### cheat sheet tours perhaps! 
+#### Toward Data Science articles: Medium has a lot of these
 
 operating system and shell commands
 shell scripts
@@ -84,6 +86,8 @@ scipy Fourier - 1D (sound for instance)
 scipy Fourier - 2D (images)
 
 statistics concepts
+  [p-values explained simply](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14) 
+  The Replication Crisis
   covariance matrix 
   matrix decompositions and "modes" 
   linear models
@@ -136,7 +140,7 @@ fooling yourself (and not)
 
 networks and graph theory
 
-what is science
+[How Science Works](https://www.nap.edu/read/13163/chapter/4) for lawyers 
 system identification
 history of statistics
 causality
