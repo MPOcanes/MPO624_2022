@@ -4,7 +4,7 @@
 week | Tuesdays | Thursdays | dates
 -----|----------|-----------|------
 1 | Introduction, [installs](https://github.com/MPOcanes/MPO624_2022/blob/main/README.md) | Assignment DUE: Screen share by each student, basic Jupyter/lab capabilities. Superpowers include object? for information, and object.`Press Tab Key` to see a menu of every method, function() or available sub-object. | Jan 18-20
-2 |Assignment DUE: complete all installs, Fork class repo. Mount our Box folder MPO624_data (see email). Show that you can run my notebooks thanks to ~Box/... file naming. Syllabus and course plans discussion |Foundations:Patrick, Strategy:Elizabeth, Tactics:Khang  | Jan 25-27
+2 |Assignment DUE: complete all installs, Fork class repo. Mount our Box folder MPO624_data (see email). Show that you can run my notebooks thanks to ~Box/... file naming. Syllabus and course plans discussion |Foundations:Patrick, Strategy:Elizabeth, Tactics:Khang. Brian showed Executable_strings_tricks (in Foundations) | Jan 25-27
 3 |Foundations:Elizabeth, Strategy:Khang, Tactics:Victoria  |Foundations:Yihang, Strategy:Yidan, Tactics:Patrick  | Feb 1-3
 4 |Foundations:Victoria, Strategy:Khang, Tactics:Elizabeth  |Foundations:Yidan, Strategy:Yihang, Tactics:Patrick  | Feb 8-10
 5 |Foundations:Yidan, Strategy:Elizabeth, Tactics:Yihang  |Foundations:Victoria, Strategy:Patrick, Tactics:Khang  | Feb 15-17

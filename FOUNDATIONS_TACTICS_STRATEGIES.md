@@ -55,6 +55,7 @@ JuPyteR features (console, etc.)
     ipython / JuPyteR extensions:
         Zen mode,...
         RISE slideshow
+        ipython magics (like %pyplot)
 
 glimpse of other languages: Julia, R (r-project.org)
 
