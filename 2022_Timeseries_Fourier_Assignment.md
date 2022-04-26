@@ -1,4 +1,4 @@
-### Take-home exam on Fourier module
+### HW/ take-home exam on Fourier module
 
 0. **Why** would a sensible person decompose or expand their data series into a sum of harmonic (sinusoidal) functions? Hint: This is to make you read my "crashcourse" writeup. 
 
